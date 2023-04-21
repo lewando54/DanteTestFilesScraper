@@ -18,6 +18,12 @@ Running the script is easy peasy lemon squeezy. Just run:
 python DanteTestFilesScraper.py <URL>
 ```
 
+Or if you downloaded the .exe for Windows:
+
+```bash
+DanteTestFilesScraper.exe <URL>
+```
+
 The <URL> parameter is the URL of the program test report. Example URL looks like this:
 
 https://pp.iis.p.lodz.pl/reports/subsp/xx/xxxx/xxxx/xxxxxx-xxxxxxxxxxxxxxxx/index.html
